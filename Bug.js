@@ -5,10 +5,10 @@ const answer = 1000;
 if(answer <= 1000){
   answer1();
 }else{
-  answer2();
+  //empty
 }
 function answer1(){
-console.log("yes");
+//Empty
 }
 
 function answer2(){
